@@ -13,12 +13,13 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Import the necessary packages.
 
 ### STEP 2:
+Read the given two csv files such as trainset and testset data.
 
 ### STEP 3:
 
-Write your own steps
 
 ## PROGRAM
 
