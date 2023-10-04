@@ -102,3 +102,4 @@ plt.show()
 ![output](./images/mse.png)
 
 ## RESULT
+Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
